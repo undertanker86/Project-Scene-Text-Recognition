@@ -1,0 +1,7 @@
+names:
+- class_labels
+nc: 1
+path: /home/always/STR/Project-Scene-Text-Recognition/datasets/yolo_data
+test: test/images
+train: train/images
+val: val/images
